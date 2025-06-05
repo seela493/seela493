@@ -67,8 +67,8 @@ I love solving real-world problems with meaningful technology and teaching other
 ---
 
 ## 🏆 Achievements
-- 🥈 First Runner-up – 28hr Hackathon on Agro & Security
-- 👩‍💼 **Team Lead** – Smart solutions with Python, Django & ML
+- 🥈 First Runner-up – 6hr Hackathon on web designing
+- 👩‍💼 **Team Lead** – Smart Canteen Management System
 - 🎙️ **YouTube Educator** – Simplifying AI, Web Dev, and Tech Tools
 
 ---
